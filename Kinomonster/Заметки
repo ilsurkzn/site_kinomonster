@@ -1,0 +1,28 @@
+background-color - цвет фона
+height - высота div
+font-size - размер шрифта
+margin-left - отступ слева
+margin-right - отступ справа
+min-width - 
+margin-left: auto; - отступ слева был авто-ки рассчитан браузером
+padding-bottom: 40px; - внутренний отступ от внутреннего эл-та слева
+letter-spacing:0.1 em; - интервал между символами
+text-decoration: none; - для стилилизаци тега а, 
+float:right; - прижать наш элемент к правому краю
+list-style: none; - не хотим видеть точки перед маркированным списком
+display: block; - мы хотим не блочный элемент превратить в блочный
+a:hover; - псевдокласс, при наведении курсора на ссылку, ссылка меняет цвет
+overflow: hidden; - св-во чтобы скрыть контент, который выходит за рамки заданного размера
+outline: none; - похож на border, но он не влияет на ширину элемента
+cursor: pointer; при наведении мыши на ссылку стрелка меняется на руку
+border: solid 1px #f2f2f2; - рамка вокруг div
+border-radius: 5px; - закругляет углы
+
+input[type="text"], input[type="password"], input[type="search"] {
+  color: #5d5d5d;
+  width: 60%;
+  padding: 8px;
+}  прописываем стили для input;
+
+
+
